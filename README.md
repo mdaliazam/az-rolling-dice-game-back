@@ -18,13 +18,13 @@ This application is a back-end API to offer required endpoints to form a basic r
 * Maven 
 
 ## Configurations
-* Most of the stuffs are configurable such as start score, penaly score, winning score (not tested unless with only required defaults)
+* Most of the stuffs are configurable such as start score, penalty score, winning score (not tested unless with only required defaults)
 
-* Configurations are set in resource/application.properties
+* Configurations are set in resources/application.properties
 
 ## How to run
 
-* From a CLI, under the root run the following command `mvnw sprint-boot:run`
+* From a CLI, under the root folder, run the following command `mvnw spring-boot:run`
 
 
 ## Front-end
